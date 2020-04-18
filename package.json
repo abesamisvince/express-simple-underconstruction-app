@@ -1,0 +1,22 @@
+{
+  "name": "simple-express-welcome",
+  "version": "1.0.0",
+  "description": "Simple welcome screen using Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "express",
+    "welcome",
+    "screen",
+    "nodejs",
+    "html",
+    "css"
+  ],
+  "author": "Vincent Abesamis",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

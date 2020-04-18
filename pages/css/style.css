@@ -1,0 +1,35 @@
+body {
+  font-family: "Lato", sans-serif;
+  background-color: #f7fafc;
+  overflow: hidden;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 100vh;
+  flex-direction: column;
+  text-align: center;
+}
+
+.main img {
+  height: 50vh;
+}
+
+.message {
+  font-size: 3rem;
+  color: #ed8936;
+}
+
+.sub {
+  font-size: 2rem;
+  color: #a0aec0;
+}
+
+.logo {
+  position: fixed;
+  top: 15px;
+  left: 10px;
+  height: 10vh;
+}
